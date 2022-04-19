@@ -110,18 +110,18 @@
       "cB" : 0,
       "ft" : 2048,
       "hM" : 0,
-      "oA" : 1,
-      "oAP" : "\/dev\/index.html",
-      "oF" : 0
+      "oA" : 0,
+      "oAP" : "\/deploy\/index.html",
+      "oF" : 3
     },
     "\/dev\/js\/scripts.js" : {
-      "bF" : 0,
+      "bF" : 4,
       "ft" : 64,
       "ma" : 0,
       "mi" : 1,
-      "oA" : 1,
-      "oAP" : "\/dev\/js\/scripts-min.js",
-      "oF" : 0,
+      "oA" : 0,
+      "oAP" : "\/deploy\/js\/scripts-min.js",
+      "oF" : 3,
       "sC" : 3,
       "tS" : 0
     },
@@ -283,9 +283,9 @@
       "ec" : 1,
       "ft" : 4,
       "ma" : 0,
-      "oA" : 1,
-      "oAP" : "\/dev\/scss\/styles.css",
-      "oF" : 0,
+      "oA" : 0,
+      "oAP" : "\/deploy\/css\/styles.css",
+      "oF" : 3,
       "oS" : 0,
       "pg" : 0,
       "sct" : 0
