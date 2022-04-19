@@ -69,6 +69,19 @@
       "q" : 100,
       "rq" : 75
     },
+    "\/dev\/content\/image\/logo.png" : {
+      "ft" : 32768,
+      "iS" : 47938,
+      "oA" : 0,
+      "oAP" : "\/dev\/content\/image\/logo.png",
+      "oF" : 0,
+      "oIPL" : 0,
+      "opt" : 0,
+      "oT" : 1,
+      "ou" : "lpckwebp-none",
+      "q" : 100,
+      "rq" : 75
+    },
     "\/dev\/global\/head.kit" : {
       "cB" : 0,
       "ft" : 2048,
